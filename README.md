@@ -11,7 +11,7 @@ Cuando se muestre un elemento por pantalla se debe representar: su nombre, la di
 * cada elemento debe representarse de manera diferenciada.
 * se deben asociar varias clases que vendrán definidas en un ficheros CSS separado o un framework como Bootstrap a los distintos elementos anteriores.
 * si no tiene web, no debe mostrarse nada (la palabra web, icono representativo de un navegador, www,....) asociado a la web.
-* 
+
 ````
 Agrupamiento de la información de los elementos del JSON
 ````
