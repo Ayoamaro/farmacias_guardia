@@ -36,10 +36,10 @@ Se podrá filtrar por distrito y por barrio mediante algún elemento como por ej
 Cuando se realiza la búsqueda se deben crear los elementos dinámicamente mediante DOM y JS que cumplan con él o los criterios. Para ello, si ya hay elementos representados, debemos borrarlos mediante DOM y JS.
 
 ## Ejecución
-1. Descargar el [Proyecto](https://bit.ly/2XH6Iz1) y descomprimir
-2. Abrir con [Visual Studio Code](https://code.visualstudio.com) o algún editor de código
-3. Descargar el [Live Server](https://bit.ly/3elOzNx)
-3. Abrir el **index.html** y ejecutarlo con la opción "Go Live"
+1. Descargar el [Proyecto](https://bit.ly/2XH6Iz1) y descomprimir.
+2. Abrir con [Visual Studio Code](https://code.visualstudio.com) o algún editor de código.
+3. Descargar el [Live Server](https://bit.ly/3elOzNx).
+3. Abrir el **index.html** y ejecutarlo con la opción "Go Live".
 
 ## Hecho con
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - **70,26%**
